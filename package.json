@@ -1,18 +1,19 @@
 {
-  "name": "fis-parser-less-import",
-  "version": "0.1.0",
-  "description": "Import less lib before parsing.",
+  "name": "fis-parser-import",
+  "version": "0.2.0",
+  "description": "Import less, stylus lib before parsing.",
   "main": "index.js",
   "keywords": [
     "fis",
     "less",
+    "stylus",
     "import",
     "mixin"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/leeyeh/fis-parser-less-import"
+    "url": "https://github.com/gavinning/fis-parser-import"
   },
-  "author": "lee55962698@gmail.com",
+  "author": "gavinning",
   "license": "MIT"
 }
